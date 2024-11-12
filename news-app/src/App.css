@@ -1,0 +1,31 @@
+/* src/App.css */
+.app {
+  display: flex;
+}
+
+.content {
+  display: flex;
+}
+
+.news-list {
+  width: 70%;
+}
+
+.news-detail {
+  width: 30%;
+}
+
+.news-card {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.news-card img {
+  max-width: 100%;
+}
+
+.nav button {
+  margin-right: 10px;
+}
