@@ -1,0 +1,7 @@
+/Users/yashrajagarwal/Desktop/Assignment/products-backend/src/main/java/com/example/products/ProductsBackendApplication.java
+/Users/yashrajagarwal/Desktop/Assignment/products-backend/src/main/java/com/example/products/config/SwaggerConfig.java
+/Users/yashrajagarwal/Desktop/Assignment/products-backend/src/main/java/com/example/products/controller/ProductController.java
+/Users/yashrajagarwal/Desktop/Assignment/products-backend/src/main/java/com/example/products/exception/GlobalExceptionHandler.java
+/Users/yashrajagarwal/Desktop/Assignment/products-backend/src/main/java/com/example/products/model/Product.java
+/Users/yashrajagarwal/Desktop/Assignment/products-backend/src/main/java/com/example/products/repository/ProductRepository.java
+/Users/yashrajagarwal/Desktop/Assignment/products-backend/src/main/java/com/example/products/service/ProductService.java
