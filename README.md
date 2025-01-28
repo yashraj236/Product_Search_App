@@ -2,4 +2,3 @@ This is a simple Product Search Application using Reactjs for frontend and Sprin
 This is an assignment before the interview process for Publicis Sapients Company for Full Stack Developer Role.
 
 
-
